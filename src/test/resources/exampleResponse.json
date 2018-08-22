@@ -1,0 +1,55 @@
+{
+  "data": {
+    "repository": {
+      "issues": {
+        "edges": [
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOBuikPg==",
+            "node": {
+              "createdAt": "2015-11-11T16:13:29Z",
+              "title": "Add v-model 'options' parameter back for select form items.",
+              "state": "CLOSED",
+              "id": "MDU6SXNzdWUxMTU5MDk2OTQ="
+            }
+          },
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOBui6nQ==",
+            "node": {
+              "createdAt": "2015-11-09T16:40:30Z",
+              "title": "Incorrect warning about two-way bind on v-for alias with filters not working.",
+              "state": "CLOSED",
+              "id": "MDU6SXNzdWUxMTU5MTU0MjE="
+            }
+          },
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOBulCYA==",
+            "node": {
+              "createdAt": "2015-11-09T19:42:53Z",
+              "title": "v-ref inside component that appears multiple times",
+              "state": "CLOSED",
+              "id": "MDU6SXNzdWUxMTU5NTAxNzY="
+            }
+          },
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOBupvBQ==",
+            "node": {
+              "createdAt": "2015-11-10T04:59:22Z",
+              "title": "a problem about table components",
+              "state": "CLOSED",
+              "id": "MDU6SXNzdWUxMTYwMjcxNDE="
+            }
+          },
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOBurgbw==",
+            "node": {
+              "createdAt": "2015-11-10T07:54:51Z",
+              "title": "The 'afterEnter' hook dose not 'wait for the transition to finish'",
+              "state": "CLOSED",
+              "id": "MDU6SXNzdWUxMTYwNTYxNzU="
+            }
+          }
+        ]
+      }
+    }
+  }
+}
